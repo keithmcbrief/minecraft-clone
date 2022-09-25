@@ -1,4 +1,4 @@
-# Welcome to React three fiber Minecraft
+React Minecraft Clone
 
 This project is a clone of Minecraft in React.
 I replicated this project and learned about many cool things about Three.js by following this Youtube video:
