@@ -14,6 +14,8 @@ You navigate the world with the mouse and WASD.
 You can click to add blocks and Alt+Click to remove blocks.
 You world is stored in your browsers local storage.
 
+PSA: To make sure the crosshair is selecting the appropriate block, make sure the cursor is centered on the crosshair before playing.
+
 ![Preview](preview.png 'Preview')
 
 In the project directory, you can run:
