@@ -4,6 +4,8 @@ import glassImg from './glass.png';
 import logImg from './log.jpg';
 import woodImg from './wood.png';
 import faceImg from './face.png';
+import face2Img from './face2.png';
+import face3Img from './face3.png';
 
 export {
 	dirtImg,
@@ -12,4 +14,6 @@ export {
 	woodImg,
 	logImg,
 	faceImg,
+	face2Img,
+	face3Img,
 }
