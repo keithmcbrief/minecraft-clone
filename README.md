@@ -4,7 +4,7 @@ This project is a clone of Minecraft in React.
 I replicated this project and learned about many cool things about Three.js by following this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
-Demo: https://minecraft-freecodecamp.vercel.app/
+Demo: https://minecraft-clone-react.vercel.app/
 
 ## How to play?
 
